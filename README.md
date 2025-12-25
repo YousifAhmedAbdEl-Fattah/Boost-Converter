@@ -363,7 +363,7 @@ please refer to the complete project report.
 |------|--------|------|--------|
 | Omar Salama | [@OmarSalama](https://github.com/Omar-Salama-1) | Omar Fetian | — |
 | Omar Roman | — | Abdelrhaman Reda | — |
-| Romissa Elhadidi | — |Hussein Aboalkheer| — |
+| Romissa Elhadidi | [@RomissaElhadidi](https://github.com/romisaaelhdaidi)|Hussein Aboalkheer| — |
 | Renda Reka | — | —| — |
 
 ---
